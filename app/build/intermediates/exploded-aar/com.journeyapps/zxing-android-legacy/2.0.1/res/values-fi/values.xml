@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android-legacy/res/values-fi/zxinglegacy_strings.xml -->
+    <eat-comment/>
+    <string name="zxinglegacy_app_name">Barcode Scanner</string>
+    <string name="zxinglegacy_button_back">Takaisin</string>
+    <string name="zxinglegacy_button_cancel">Peruuta</string>
+    <string name="zxinglegacy_button_done">Valmis</string>
+    <string name="zxinglegacy_button_ok">OK</string>
+    <string name="zxinglegacy_contents_contact">Yhteystiedon tiedot</string>
+    <string name="zxinglegacy_contents_email">Sähköpostiosoite</string>
+    <string name="zxinglegacy_contents_location">Maantieteelliset koordinaatit</string>
+    <string name="zxinglegacy_contents_phone">Puhelinnumero</string>
+    <string name="zxinglegacy_contents_sms">Tekstiviestin osoite</string>
+    <string name="zxinglegacy_contents_text">Teksti</string>
+    <string name="zxinglegacy_menu_encode_mecard">Käytä MECARD:ia</string>
+    <string name="zxinglegacy_menu_encode_vcard">Käytä vCard:ia</string>
+    <string name="zxinglegacy_menu_help">Ohje</string>
+    <string name="zxinglegacy_menu_share">Jaa</string>
+    <string name="zxinglegacy_msg_camera_framework_bug">Formaatti</string>
+    <string name="zxinglegacy_msg_default_format">Muoto</string>
+    <string name="zxinglegacy_msg_default_meta">Metatiedot</string>
+    <string name="zxinglegacy_msg_default_status">Aseta viivakoodi neliön sisälle skannataksesi sen.</string>
+    <string name="zxinglegacy_msg_default_time">Aika</string>
+    <string name="zxinglegacy_msg_default_type">Tyyppi</string>
+    <string name="zxinglegacy_msg_encode_contents_failed">Viivakoodia ei voitu muodostaa annetusta datasta.</string>
+    <string name="zxinglegacy_msg_unmount_usb">SD-kortti ei ole käytettävissä.</string>
+</resources>

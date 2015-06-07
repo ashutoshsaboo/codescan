@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android/res/values/zxing_arrays.xml -->
+    <eat-comment/>
+    <string-array name="zxing_country_codes" translatable="false">
+    <item>-</item>
+    <item>AR</item>
+    <item>AU</item>
+    <item>BR</item>
+    <item>BG</item>
+    <item>CA</item>
+    <item>CH</item>
+    <item>CN</item>
+    <item>CZ</item>
+    <item>DE</item>
+    <item>DK</item>
+    <item>ES</item>
+    <item>FI</item>
+    <item>FR</item>
+    <item>GB</item>
+    <item>GR</item>
+    <item>HU</item>
+    <item>ID</item>
+    <item>IT</item>
+    <item>JP</item>
+    <item>KR</item>
+    <item>NL</item>
+    <item>PL</item>
+    <item>PT</item>
+    <item>RO</item>    
+    <item>RU</item>
+    <item>SE</item>
+    <item>SK</item>
+    <item>SI</item>
+    <item>TR</item>
+    <item>TW</item>
+    <item>US</item>
+  </string-array>
+    <string-array name="zxing_preferences_front_light_values" translatable="false">
+    <item>ON</item>
+    <item>AUTO</item>
+    <item>OFF</item>
+  </string-array>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android/res-orig/values/zxing_colors.xml -->
+    <eat-comment/>
+    <color name="zxing_contents_text">#ff000000</color>
+    <color name="zxing_encode_view">#ffffffff</color>
+    <color name="zxing_possible_result_points">#c0ffbd21</color>
+    <color name="zxing_result_minor_text">#ffc0c0c0</color>
+    <color name="zxing_result_points">#c099cc00</color>
+    <color name="zxing_result_text">#ffffffff</color>
+    <color name="zxing_result_view">#b0000000</color>
+    <color name="zxing_status_text">#ffffffff</color>
+    <color name="zxing_transparent">#00000000</color>
+    <color name="zxing_viewfinder_laser">#ffcc0000</color>
+    <color name="zxing_viewfinder_mask">#60000000</color>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android/res-orig/values/zxing_dimens.xml -->
+    <eat-comment/>
+    <dimen name="zxing_half_padding">4dip</dimen>
+    <dimen name="zxing_standard_padding">8dip</dimen>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android/res/values/zxing_ids.xml -->
+    <eat-comment/>
+    <item name="zxing_back_button" type="id"/>
+    <item name="zxing_decode" type="id"/>
+    <item name="zxing_decode_failed" type="id"/>
+    <item name="zxing_decode_succeeded" type="id"/>
+    <item name="zxing_launch_product_query" type="id"/>
+    <item name="zxing_quit" type="id"/>
+    <item name="zxing_restart_preview" type="id"/>
+    <item name="zxing_return_scan_result" type="id"/>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android/res-orig/values/zxing_strings.xml -->
+    <eat-comment/>
+    <string name="zxing_app_name">Barcode Scanner</string>
+    <string name="zxing_button_cancel">Cancel</string>
+    <string name="zxing_button_ok">OK</string>
+    <string name="zxing_contents_contact">Contact info</string>
+    <string name="zxing_contents_email">Email address</string>
+    <string name="zxing_contents_location">Geographic coordinates</string>
+    <string name="zxing_contents_phone">Phone number</string>
+    <string name="zxing_contents_sms">SMS address</string>
+    <string name="zxing_contents_text">Plain text</string>
+    <string name="zxing_menu_encode_mecard">Use MECARD</string>
+    <string name="zxing_menu_encode_vcard">Use vCard</string>
+    <string name="zxing_menu_help">Help</string>
+    <string name="zxing_menu_share">Share</string>
+    <string name="zxing_msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="zxing_msg_default_format">Format</string>
+    <string name="zxing_msg_default_meta">Metadata</string>
+    <string name="zxing_msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="zxing_msg_default_time">Time</string>
+    <string name="zxing_msg_default_type">Type</string>
+    <string name="zxing_msg_encode_contents_failed">Could not encode a barcode from the data provided.</string>
+    <string name="zxing_msg_unmount_usb">Sorry, the SD card is not accessible.</string>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android/res/values/zxing_themes.xml -->
+    <eat-comment/>
+    <style name="zxing_CaptureTheme" parent="android:Theme.Holo.NoActionBar.Fullscreen">
+  </style>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android/res-orig/values/zxing_styles.xml -->
+    <eat-comment/>
+    <style name="zxing_ResultButton" parent="@android:style/Widget.Holo.Button.Borderless.Small">
+    <item name="android:layout_width">0dip</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_weight">1</item>
+  </style>
+    <style name="zxing_ShareButton" parent="@android:style/Widget.Holo.Button.Borderless.Small">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
+</resources>

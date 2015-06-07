@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android-legacy/res/values-ko/zxinglegacy_strings.xml -->
+    <eat-comment/>
+    <string name="zxinglegacy_app_name">바코드 스캐너</string>
+    <string name="zxinglegacy_button_back">뒤로</string>
+    <string name="zxinglegacy_button_cancel">취소</string>
+    <string name="zxinglegacy_button_done">완료</string>
+    <string name="zxinglegacy_button_ok">확인</string>
+    <string name="zxinglegacy_contents_contact">연락처 정보</string>
+    <string name="zxinglegacy_contents_email">이메일 주소</string>
+    <string name="zxinglegacy_contents_location">GPS 좌표</string>
+    <string name="zxinglegacy_contents_phone">전화번호</string>
+    <string name="zxinglegacy_contents_sms">전화번호</string>
+    <string name="zxinglegacy_contents_text">단문</string>
+    <string name="zxinglegacy_menu_encode_mecard">MECARD를 사용하여</string>
+    <string name="zxinglegacy_menu_encode_vcard">vCard를 사용하여</string>
+    <string name="zxinglegacy_menu_help">도움말</string>
+    <string name="zxinglegacy_menu_share">공유</string>
+    <string name="zxinglegacy_msg_camera_framework_bug">죄송합니다. 기기의 카메라에 오류가 생겼습니다. 기기를 재시작 해야될 수도 있습니다.</string>
+    <string name="zxinglegacy_msg_default_format">포맷</string>
+    <string name="zxinglegacy_msg_default_meta">메타데이터</string>
+    <string name="zxinglegacy_msg_default_status">바코드를 사각형 안에 비춰주세요.</string>
+    <string name="zxinglegacy_msg_default_time">시간</string>
+    <string name="zxinglegacy_msg_default_type">종류</string>
+    <string name="zxinglegacy_msg_encode_contents_failed">주어진 데이터로 바코드를 만들지 못하였습니다.</string>
+    <string name="zxinglegacy_msg_unmount_usb">죄송합니다. SD카드를 사용할 수 없습니다.</string>
+</resources>

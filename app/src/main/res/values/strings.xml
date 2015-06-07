@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CodeScan</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="btn_scan_now">Scan a Bar Code</string>
+    <string name="scan_bar_code">Scan a Bar Code</string>
+    <string name="btn_scan_qr">Scan a QR Code</string>
+    <string name="btn_scan_search">Search for the Code</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f38c1fe0ee3d0ef717e7f32131719fccf07fd6c7">
+        <dex dex="/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/pre-dexed/debug/classes-480d990091c2d7a460daeca53b16c63f5986dbda.jar" />
+    </item>
+    <item
+        jar="/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/pre-dexed/debug/classes-deb49fad41ca7ac1e012679205a4650e100a7e21.jar" />
+    </item>
+    <item
+        jar="/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/pre-dexed/debug/classes-6bfd481201c3cc4e3362c3a2421e36e23f4b33d0.jar" />
+    </item>
+    <item
+        jar="/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-integration/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4d7d4290dc3f13bdb95a92b2377d78e66084dfa">
+        <dex dex="/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/pre-dexed/debug/classes-219fe1d7ee3faf800b7e7a0b58c3f3a680249455.jar" />
+    </item>
+    <item
+        jar="/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7eb68150c290a271a716675ebdfd176eac694124">
+        <dex dex="/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/pre-dexed/debug/classes-af3aec10afaaaa61c1d0c923cdf6e943c1aa867e.jar" />
+    </item>
+    <item
+        jar="/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1ef116b187336b8b7f4995b34586352434f5f8bd.jar" />
+    </item>
+    <item
+        jar="/home/ashutoshsaboo/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.0.1/9ebf6cd580d67601fbf88fd007aab4703b19e4c2/core-3.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9ebf6cd580d67601fbf88fd007aab4703b19e4c2">
+        <dex dex="/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/pre-dexed/debug/core-3.0.1-a700bafd63edf23e299c83557cc5e5c92368b4bd.jar" />
+    </item>
+    <item
+        jar="/home/ashutoshsaboo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c5eb42ddd25c38f620f899119799bf9770b37330.jar" />
+    </item>
+
+</items>

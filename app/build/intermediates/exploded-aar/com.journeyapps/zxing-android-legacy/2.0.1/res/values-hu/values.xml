@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android-legacy/res/values-hu/zxinglegacy_strings.xml -->
+    <eat-comment/>
+    <string name="zxinglegacy_app_name">Barcode Scanner</string>
+    <string name="zxinglegacy_button_back">Vissza</string>
+    <string name="zxinglegacy_button_cancel">Mégse</string>
+    <string name="zxinglegacy_button_done">Kész</string>
+    <string name="zxinglegacy_button_ok">OK</string>
+    <string name="zxinglegacy_contents_contact">Névjegy információ</string>
+    <string name="zxinglegacy_contents_email">E-mail cím</string>
+    <string name="zxinglegacy_contents_location">Földrajzi koordináták</string>
+    <string name="zxinglegacy_contents_phone">Telefonszám</string>
+    <string name="zxinglegacy_contents_sms">SMS szám</string>
+    <string name="zxinglegacy_contents_text">Egyszerű szöveg</string>
+    <string name="zxinglegacy_menu_encode_mecard">Használja MECARD</string>
+    <string name="zxinglegacy_menu_encode_vcard">Használja vCard</string>
+    <string name="zxinglegacy_menu_help">Súgó</string>
+    <string name="zxinglegacy_menu_share">Megosztás</string>
+    <string name="zxinglegacy_msg_camera_framework_bug">Android kamera hiba. Lehet, hogy újra kell indítania a készüléket.</string>
+    <string name="zxinglegacy_msg_default_format">Formátum</string>
+    <string name="zxinglegacy_msg_default_meta">Metaadatok</string>
+    <string name="zxinglegacy_msg_default_status">Pozícionálja a vonalkódot a kereső téglalapba a szkenneléshez.</string>
+    <string name="zxinglegacy_msg_default_time">Idő</string>
+    <string name="zxinglegacy_msg_default_type">Típus</string>
+    <string name="zxinglegacy_msg_encode_contents_failed">Nem sikerült létrehozni a vonalkódot a megadott adatokból.</string>
+    <string name="zxinglegacy_msg_unmount_usb">Az SD kártya nem elérhető.</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android-legacy/res/values-nl/zxinglegacy_strings.xml -->
+    <eat-comment/>
+    <string name="zxinglegacy_app_name">Barcode Scanner</string>
+    <string name="zxinglegacy_button_back">Terug</string>
+    <string name="zxinglegacy_button_cancel">Annuleren</string>
+    <string name="zxinglegacy_button_done">Gereed</string>
+    <string name="zxinglegacy_button_ok">OK</string>
+    <string name="zxinglegacy_contents_contact">Contactpersooninformatie</string>
+    <string name="zxinglegacy_contents_email">E-mailadres</string>
+    <string name="zxinglegacy_contents_location">Geografische coördinaten</string>
+    <string name="zxinglegacy_contents_phone">Telefoonnummer</string>
+    <string name="zxinglegacy_contents_sms">Sms-adres</string>
+    <string name="zxinglegacy_contents_text">Platte tekst</string>
+    <string name="zxinglegacy_menu_encode_mecard">MECARD gebruiken</string>
+    <string name="zxinglegacy_menu_encode_vcard">vCard gebruiken</string>
+    <string name="zxinglegacy_menu_help">Help</string>
+    <string name="zxinglegacy_menu_share">Delen</string>
+    <string name="zxinglegacy_msg_camera_framework_bug">Sorry, er is een probleem met de Android-camera. Probeer je telefoon opnieuw op te starten.</string>
+    <string name="zxinglegacy_msg_default_format">Formaat</string>
+    <string name="zxinglegacy_msg_default_meta">Metadata</string>
+    <string name="zxinglegacy_msg_default_status">Plaats een barcode binnen de rechthoek om deze te scannen.</string>
+    <string name="zxinglegacy_msg_default_time">Tijd</string>
+    <string name="zxinglegacy_msg_default_type">Type</string>
+    <string name="zxinglegacy_msg_encode_contents_failed">Kan geen barcode genereren op basis van de opgegeven gegevens.</string>
+    <string name="zxinglegacy_msg_unmount_usb">Sorry, de SD-kaart is niet toegankelijk.</string>
+</resources>

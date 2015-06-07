@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sk/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Prejsť na plochu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Prejsť hore"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Ďalšie možnosti"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobraziť všetko"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Zvoľte aplikáciu"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Vymazať dopyt"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhľadávací dopyt"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hľadať"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odoslať dopyt"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhľadávanie"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Zdieľať pomocou"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Zdieľať pomocou %s"</string>
+    <!-- From: file:/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/2.0.1/res/values-sk/values.xml -->
+    <eat-comment/>
+    <string name="zxing_app_name">Barcode Scanner</string>
+    <string name="zxing_button_cancel">Zrušiť</string>
+    <string name="zxing_button_ok">OK</string>
+    <string name="zxing_contents_contact">Informácie o kontakte</string>
+    <string name="zxing_contents_email">E-mailová adresa</string>
+    <string name="zxing_contents_location">Geografické súradnice</string>
+    <string name="zxing_contents_phone">Telefónne číslo</string>
+    <string name="zxing_contents_sms">SMS adresa</string>
+    <string name="zxing_contents_text">Obyčajný text</string>
+    <string name="zxing_menu_encode_mecard">Použiť MECARD</string>
+    <string name="zxing_menu_encode_vcard">Použiť vCard</string>
+    <string name="zxing_menu_help">Nápoveda</string>
+    <string name="zxing_menu_share">Zdieľať</string>
+    <string name="zxing_msg_camera_framework_bug">Ospravedlňujeme sa, fotoaparát narazil na problém. Možno bude potrebné reštartovať zariadenie.</string>
+    <string name="zxing_msg_default_format">Formát</string>
+    <string name="zxing_msg_default_meta">Metadáta</string>
+    <string name="zxing_msg_default_status">Umiestnite čiarový kód do vnútra obdĺžnika hľadáčiku pre skenovanie.</string>
+    <string name="zxing_msg_default_time">Čas</string>
+    <string name="zxing_msg_default_type">Typ</string>
+    <string name="zxing_msg_encode_contents_failed">Nie je možné zakódovať čiarový kód z poskytnutých údajov.</string>
+    <string name="zxing_msg_unmount_usb">Ospravedlňujeme sa, SD karta nie je prístupná.</string>
+    <!-- From: file:/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.0.1/res/values-sk/values.xml -->
+    <eat-comment/>
+    <string name="zxinglegacy_app_name">Barcode Scanner</string>
+    <string name="zxinglegacy_button_back">Späť</string>
+    <string name="zxinglegacy_button_cancel">Zrušiť</string>
+    <string name="zxinglegacy_button_done">Hotovo</string>
+    <string name="zxinglegacy_button_ok">OK</string>
+    <string name="zxinglegacy_contents_contact">Informácie o kontakte</string>
+    <string name="zxinglegacy_contents_email">E-mailová adresa</string>
+    <string name="zxinglegacy_contents_location">Geografické súradnice</string>
+    <string name="zxinglegacy_contents_phone">Telefónne číslo</string>
+    <string name="zxinglegacy_contents_sms">SMS adresa</string>
+    <string name="zxinglegacy_contents_text">Obyčajný text</string>
+    <string name="zxinglegacy_menu_encode_mecard">Použiť MECARD</string>
+    <string name="zxinglegacy_menu_encode_vcard">Použiť vCard</string>
+    <string name="zxinglegacy_menu_help">Nápoveda</string>
+    <string name="zxinglegacy_menu_share">Zdieľať</string>
+    <string name="zxinglegacy_msg_camera_framework_bug">Ospravedlňujeme sa, fotoaparát narazil na problém. Možno bude potrebné reštartovať zariadenie.</string>
+    <string name="zxinglegacy_msg_default_format">Formát</string>
+    <string name="zxinglegacy_msg_default_meta">Metadáta</string>
+    <string name="zxinglegacy_msg_default_status">Umiestnite čiarový kód do vnútra obdĺžnika hľadáčiku pre skenovanie.</string>
+    <string name="zxinglegacy_msg_default_time">Čas</string>
+    <string name="zxinglegacy_msg_default_type">Typ</string>
+    <string name="zxinglegacy_msg_encode_contents_failed">Nie je možné zakódovať čiarový kód z poskytnutých údajov.</string>
+    <string name="zxinglegacy_msg_unmount_usb">Ospravedlňujeme sa, SD karta nie je prístupná.</string>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <!-- From: file:/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/2.0.1/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string name="zxing_app_name">条码扫描器</string>
+    <string name="zxing_button_cancel">取消</string>
+    <string name="zxing_button_ok">确定</string>
+    <string name="zxing_contents_contact">联系人信息</string>
+    <string name="zxing_contents_email">Email地址</string>
+    <string name="zxing_contents_location">地理坐标</string>
+    <string name="zxing_contents_phone">电话号码</string>
+    <string name="zxing_contents_sms">短信地址</string>
+    <string name="zxing_contents_text">纯文本</string>
+    <string name="zxing_menu_encode_mecard">使用MECARD</string>
+    <string name="zxing_menu_encode_vcard">使用vCard</string>
+    <string name="zxing_menu_help">帮助</string>
+    <string name="zxing_menu_share">分享</string>
+    <string name="zxing_msg_camera_framework_bug">抱歉，Android相机出现问题。您可能需要重启设备。</string>
+    <string name="zxing_msg_default_format">格式</string>
+    <string name="zxing_msg_default_meta">元数据</string>
+    <string name="zxing_msg_default_status">请将条码置于取景框内扫描。  </string>
+    <string name="zxing_msg_default_time">时间</string>
+    <string name="zxing_msg_default_type">类型</string>
+    <string name="zxing_msg_encode_contents_failed">无法根据已有数据生成条码。   </string>
+    <string name="zxing_msg_unmount_usb">抱歉，SD卡不可访问。</string>
+    <!-- From: file:/home/ashutoshsaboo/AndroidStudioProjects/CodeScan/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.0.1/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string name="zxinglegacy_app_name">条码扫描器</string>
+    <string name="zxinglegacy_button_back">返回</string>
+    <string name="zxinglegacy_button_cancel">取消</string>
+    <string name="zxinglegacy_button_done">完成</string>
+    <string name="zxinglegacy_button_ok">确定</string>
+    <string name="zxinglegacy_contents_contact">联系人信息</string>
+    <string name="zxinglegacy_contents_email">Email地址</string>
+    <string name="zxinglegacy_contents_location">地理坐标</string>
+    <string name="zxinglegacy_contents_phone">电话号码</string>
+    <string name="zxinglegacy_contents_sms">短信地址</string>
+    <string name="zxinglegacy_contents_text">纯文本</string>
+    <string name="zxinglegacy_menu_encode_mecard">使用MECARD</string>
+    <string name="zxinglegacy_menu_encode_vcard">使用vCard</string>
+    <string name="zxinglegacy_menu_help">帮助</string>
+    <string name="zxinglegacy_menu_share">分享</string>
+    <string name="zxinglegacy_msg_camera_framework_bug">抱歉，Android相机出现问题。您可能需要重启设备。</string>
+    <string name="zxinglegacy_msg_default_format">格式</string>
+    <string name="zxinglegacy_msg_default_meta">元数据</string>
+    <string name="zxinglegacy_msg_default_status">请将条码置于取景框内扫描。  </string>
+    <string name="zxinglegacy_msg_default_time">时间</string>
+    <string name="zxinglegacy_msg_default_type">类型</string>
+    <string name="zxinglegacy_msg_encode_contents_failed">无法根据已有数据生成条码。   </string>
+    <string name="zxinglegacy_msg_unmount_usb">抱歉，SD卡不可访问。</string>
+</resources>

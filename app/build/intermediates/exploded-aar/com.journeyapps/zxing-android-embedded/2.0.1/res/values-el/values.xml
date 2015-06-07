@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android/res-orig/values-el/zxing_strings.xml -->
+    <eat-comment/>
+    <string name="zxing_app_name">Barcode Scanner</string>
+    <string name="zxing_button_cancel">Ακύρωση</string>
+    <string name="zxing_button_ok">OK</string>
+    <string name="zxing_contents_contact">Πληροφορίες επαφής</string>
+    <string name="zxing_contents_email">Διεύθυνση email</string>
+    <string name="zxing_contents_location">Γεωγραφικές συντεταγμένες</string>
+    <string name="zxing_contents_phone">Τηλέφωνο</string>
+    <string name="zxing_contents_sms">Διεύθνση SMS</string>
+    <string name="zxing_contents_text">Απλό κείμενο</string>
+    <string name="zxing_menu_encode_mecard">Χρησιμοποιήστε MECARD</string>
+    <string name="zxing_menu_encode_vcard">Χρησιμοποιήστε vCard</string>
+    <string name="zxing_menu_help">Βοήθεια</string>
+    <string name="zxing_menu_share">Κοινή χρήση</string>
+    <string name="zxing_msg_camera_framework_bug">Συγνώμη, προέκυψε ένα πρόβλημα με την κάμερα. Ίσως χρειαστεί να επανεκιννήσετε τη συσκευή.</string>
+    <string name="zxing_msg_default_format">Διαμόρφωση</string>
+    <string name="zxing_msg_default_meta">Metadata</string>
+    <string name="zxing_msg_default_status">Τοποθετήστε ένα barcode μέσα στο πλαίσιο για να το σκανάρετε.</string>
+    <string name="zxing_msg_default_time">Ωρα</string>
+    <string name="zxing_msg_default_type">Τύπος</string>
+    <string name="zxing_msg_encode_contents_failed">Δεν γίνεται να παραχθεί barcode από αυτά τα δεδομένα.</string>
+    <string name="zxing_msg_unmount_usb">Συγνώμη, η κάρτα SD δεν είναι προσβάσιμη.</string>
+</resources>

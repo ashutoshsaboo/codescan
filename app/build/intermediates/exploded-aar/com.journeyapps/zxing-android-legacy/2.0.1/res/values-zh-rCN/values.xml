@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android-legacy/res/values-zh-rCN/zxinglegacy_strings.xml -->
+    <eat-comment/>
+    <string name="zxinglegacy_app_name">条码扫描器</string>
+    <string name="zxinglegacy_button_back">返回</string>
+    <string name="zxinglegacy_button_cancel">取消</string>
+    <string name="zxinglegacy_button_done">完成</string>
+    <string name="zxinglegacy_button_ok">确定</string>
+    <string name="zxinglegacy_contents_contact">联系人信息</string>
+    <string name="zxinglegacy_contents_email">Email地址</string>
+    <string name="zxinglegacy_contents_location">地理坐标</string>
+    <string name="zxinglegacy_contents_phone">电话号码</string>
+    <string name="zxinglegacy_contents_sms">短信地址</string>
+    <string name="zxinglegacy_contents_text">纯文本</string>
+    <string name="zxinglegacy_menu_encode_mecard">使用MECARD</string>
+    <string name="zxinglegacy_menu_encode_vcard">使用vCard</string>
+    <string name="zxinglegacy_menu_help">帮助</string>
+    <string name="zxinglegacy_menu_share">分享</string>
+    <string name="zxinglegacy_msg_camera_framework_bug">抱歉，Android相机出现问题。您可能需要重启设备。</string>
+    <string name="zxinglegacy_msg_default_format">格式</string>
+    <string name="zxinglegacy_msg_default_meta">元数据</string>
+    <string name="zxinglegacy_msg_default_status">请将条码置于取景框内扫描。  </string>
+    <string name="zxinglegacy_msg_default_time">时间</string>
+    <string name="zxinglegacy_msg_default_type">类型</string>
+    <string name="zxinglegacy_msg_encode_contents_failed">无法根据已有数据生成条码。   </string>
+    <string name="zxinglegacy_msg_unmount_usb">抱歉，SD卡不可访问。</string>
+</resources>

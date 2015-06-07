@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android-legacy/res/values-eu/zxinglegacy_strings.xml -->
+    <eat-comment/>
+    <string name="zxinglegacy_app_name">Barra-kode Eskanerra</string>
+    <string name="zxinglegacy_button_back">Atzera</string>
+    <string name="zxinglegacy_button_cancel">Utzi</string>
+    <string name="zxinglegacy_button_done">Eginda</string>
+    <string name="zxinglegacy_button_ok">Ados</string>
+    <string name="zxinglegacy_contents_contact">Kontaktuaren informazioa</string>
+    <string name="zxinglegacy_contents_email">E-posta helbidea</string>
+    <string name="zxinglegacy_contents_location">Koordenatu geografikoak</string>
+    <string name="zxinglegacy_contents_phone">Telefono zenbakia</string>
+    <string name="zxinglegacy_contents_sms">SMS helbidea</string>
+    <string name="zxinglegacy_contents_text">Testu laua</string>
+    <string name="zxinglegacy_menu_encode_mecard">Erabili MECARD</string>
+    <string name="zxinglegacy_menu_encode_vcard">Erabili vCard</string>
+    <string name="zxinglegacy_menu_help">Laguntza</string>
+    <string name="zxinglegacy_menu_share">Partekatu</string>
+    <string name="zxinglegacy_msg_camera_framework_bug">Barkatu, Android kamerak arazo bat izan du. Behar bada gailua berrabiarazi beharko duzu.</string>
+    <string name="zxinglegacy_msg_default_format">Formatua</string>
+    <string name="zxinglegacy_msg_default_meta">Metadatuak</string>
+    <string name="zxinglegacy_msg_default_status">Kokatu barra-kode bat laukizuzenaren barruan eskaneatzeko.</string>
+    <string name="zxinglegacy_msg_default_time">Denbora</string>
+    <string name="zxinglegacy_msg_default_type">Mota</string>
+    <string name="zxinglegacy_msg_encode_contents_failed">Ezin izan da barra-kode bat kodetu emandako datuetatik.</string>
+    <string name="zxinglegacy_msg_unmount_usb">Barkatu, SD txartela ez dago eskuragarri.</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android/res-orig/values-hu/zxing_strings.xml -->
+    <eat-comment/>
+    <string name="zxing_app_name">Barcode Scanner</string>
+    <string name="zxing_button_cancel">Mégse</string>
+    <string name="zxing_button_ok">OK</string>
+    <string name="zxing_contents_contact">Névjegy információ</string>
+    <string name="zxing_contents_email">E-mail cím</string>
+    <string name="zxing_contents_location">Földrajzi koordináták</string>
+    <string name="zxing_contents_phone">Telefonszám</string>
+    <string name="zxing_contents_sms">SMS szám</string>
+    <string name="zxing_contents_text">Egyszerű szöveg</string>
+    <string name="zxing_menu_encode_mecard">Használja MECARD</string>
+    <string name="zxing_menu_encode_vcard">Használja vCard</string>
+    <string name="zxing_menu_help">Súgó</string>
+    <string name="zxing_menu_share">Megosztás</string>
+    <string name="zxing_msg_camera_framework_bug">Android kamera hiba. Lehet, hogy újra kell indítania a készüléket.</string>
+    <string name="zxing_msg_default_format">Formátum</string>
+    <string name="zxing_msg_default_meta">Metaadatok</string>
+    <string name="zxing_msg_default_status">Pozícionálja a vonalkódot a kereső téglalapba a szkenneléshez.</string>
+    <string name="zxing_msg_default_time">Idő</string>
+    <string name="zxing_msg_default_type">Típus</string>
+    <string name="zxing_msg_encode_contents_failed">Nem sikerült létrehozni a vonalkódot a megadott adatokból.</string>
+    <string name="zxing_msg_unmount_usb">Az SD kártya nem elérhető.</string>
+</resources>

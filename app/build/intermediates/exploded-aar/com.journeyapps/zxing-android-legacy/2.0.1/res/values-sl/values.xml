@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ralf/src/zxing-android-minimal/zxing-android-legacy/res/values-sl/zxinglegacy_strings.xml -->
+    <eat-comment/>
+    <string name="zxinglegacy_app_name">Barcode Scanner</string>
+    <string name="zxinglegacy_button_back">Nazaj</string>
+    <string name="zxinglegacy_button_cancel">Prekliči</string>
+    <string name="zxinglegacy_button_done">Končano</string>
+    <string name="zxinglegacy_button_ok">V redu</string>
+    <string name="zxinglegacy_contents_contact">Informacije o kontaktu</string>
+    <string name="zxinglegacy_contents_email">E-naslov</string>
+    <string name="zxinglegacy_contents_location">Geografske koordinate</string>
+    <string name="zxinglegacy_contents_phone">Telefonska številka</string>
+    <string name="zxinglegacy_contents_sms">SMS naslov</string>
+    <string name="zxinglegacy_contents_text">Tekst</string>
+    <string name="zxinglegacy_menu_encode_mecard">Uporaba MECARD</string>
+    <string name="zxinglegacy_menu_encode_vcard">Uporaba vCard</string>
+    <string name="zxinglegacy_menu_help">Pomoč</string>
+    <string name="zxinglegacy_menu_share">Deli</string>
+    <string name="zxinglegacy_msg_camera_framework_bug">Oprostite, Android kamera je naletela na težave. Mogoče boste morali ponovno zagnati napravo.</string>
+    <string name="zxinglegacy_msg_default_format">Format</string>
+    <string name="zxinglegacy_msg_default_meta">Metapodatki</string>
+    <string name="zxinglegacy_msg_default_status">Za branje postavite črtno kodo znotraj iskala.</string>
+    <string name="zxinglegacy_msg_default_time">Čas</string>
+    <string name="zxinglegacy_msg_default_type">Tip</string>
+    <string name="zxinglegacy_msg_encode_contents_failed">Ni bilo mogoče narediti črtne kode iz podanih podatkov</string>
+    <string name="zxinglegacy_msg_unmount_usb">Oprostite, do SD kartice ni možno dostopati</string>
+</resources>
